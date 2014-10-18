@@ -1,0 +1,11 @@
+== README
+
+This is a small example of putting TinkerForge into a Rails App
+
+Todo:
+* clone this repo
+* run bundle install
+* Change the constants in app/model/weather_station.rb to the one that fit to your weather station
+* run bin/rails s to start the serve.
+
+have fun.
